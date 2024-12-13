@@ -11,7 +11,7 @@ Result repository from <DrumkitGen: Generating Homogeneous Drum Sound Using Diff
       ├── Partial generation # Result of generating one sample, given other samples
       │   ├── 808            
       │   │   ├── Original   # Original Drumkit 
-      │   │   ├── Kick       # Generated Kick sample
+      │   │   ├── Kick       
       │   │   ├── Snare      
       │   │   ├── OpenHH
       │   │   ├── ClosedHH
