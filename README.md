@@ -2,6 +2,7 @@
 
 Result repository from <DrumkitGen: Generating Homogeneous Drum Sound Using Diffusion Model>
 
+### Directory Structure
 .
 ├── Total generation   # Result of generating whole drumkit
 │   ├── Sample1
