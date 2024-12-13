@@ -1,3 +1,4 @@
+### DrumkitGen: Generating Homogeneous Drum Sound Using Diffusion Model
 Result repository from <DrumkitGen: Generating Homogeneous Drum Sound Using Diffusion Model>
 
 ### Directory Structure
